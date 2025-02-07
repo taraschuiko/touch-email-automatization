@@ -1,0 +1,260 @@
+type,name,address,email
+Навчальний заклад,Uniwersytet Jagielloński,"ul. Gołębia 24, 31-007 Kraków",info@uj.edu.pl
+Навчальний заклад,Akademia Górniczo-Hutnicza,"al. Mickiewicza 30, 30-059 Kraków",rektor@agh.edu.pl
+Навчальний заклад,Politechnika Krakowska,"ul. Warszawska 24, 31-155 Kraków",info@pk.edu.pl
+Лікарня,Szpital Uniwersytecki w Krakowie,"ul. Mikołaja Kopernika 36, 31-501 Kraków",sekretariat@su.krakow.pl
+Лікарня,Szpital Specjalistyczny im. Ludwika Rydygiera,"os. Złotej Jesieni 1, 31-826 Kraków",sekretariat@rydygierkrakow.pl
+Поліклініка,Przychodnia Medycyny Rodzinnej,"ul. Komorowskiego 12, 30-106 Kraków",rejestracja@przychodnia.krakow.pl
+Поліклініка,Przychodnia Zdrowia,"ul. Krowoderska 17, 31-141 Kraków",kontakt@przychodniazdrowia.pl
+Клініка,Centrum Medyczne Luxmed,"ul. Lubicz 23, 31-503 Kraków",krakow@luxmed.pl
+Клініка,Medicover,"ul. Podgórska 36, 31-536 Kraków",krakow@medicover.pl
+Торговий центр,Galeria Krakowska,"ul. Pawia 5, 31-154 Kraków",info@galeriakrakowska.pl
+Торговий центр,Bonarka City Center,"ul. Kamieńskiego 11, 30-644 Kraków",kontakt@bonarkacitycenter.pl
+Торговий центр,Galeria Kazimierz,"ul. Podgórska 34, 31-536 Kraków",info@galeriakazimierz.pl
+Вокзал,Dworzec Autobusowy MDA,"ul. Bosacka 18, 31-505 Kraków",sekretariat@mda.malopolska.pl
+Ужонд,Urząd Miasta Krakowa,"pl. Wszystkich Świętych 3-4, 31-004 Kraków",info@um.krakow.pl
+Ужонд,Małopolski Urząd Wojewódzki,"ul. Basztowa 22, 31-156 Kraków",kancelaria@malopolska.uw.gov.pl
+Офісна будівля,High5ive,"ul. Pawia 9, 31-154 Kraków",leasing@skanska.pl
+Офісна будівля,Unity Centre,"ul. Lubomirskiego 5, 31-506 Kraków",info@unitycentre.pl
+Геймінг клуб,Cybermachina,"ul. Stolarska 11, 31-043 Kraków",krakow@cybermachina.pl
+Геймінг клуб,Game Over Pub,"ul. Basztowa 18, 31-143 Kraków",gameoverpubkrakow@gmail.com
+Інтерактивний заклад для молоді,GOjump Park Trampolin,"ul. Rzemieślnicza 20G, 30-403 Kraków",krakow@gojump.pl
+Інтерактивний заклад для молоді,Laser Park,"ul. Dobrego Pasterza 128, 31-416 Kraków",kontakt@laserpark.pl
+Спортивний комплекс,Tauron Arena Kraków,"ul. Stanisława Lema 7, 31-571 Kraków",info@tauronarenakrakow.pl
+Спортивний комплекс,Com-Com Zone,"ul. Ptaszyckiego 6, 31-979 Kraków",biuro@comcomzone.pl
+Школа танців,Egurrola Dance Studio,"ul. Kamieńskiego 11, 30-644 Kraków",krakow@egurrola.pl
+Школа танців,Loft to Dance,"ul. Kamienna 2-4, 31-403 Kraków",info@loftodance.pl
+Школа бойових мистецтв,Krakowska Szkoła Wushu,"ul. Grzegórzecka 10, 31-530 Kraków",info@wushu.krakow.pl
+Школа бойових мистецтв,Centrum Aikido Aikikai,"ul. Krowoderska 8, 31-142 Kraków",aikido@aikido.krakow.pl
+Басейн,Basen AGH,"al. Mickiewicza 30, 30-059 Kraków",basen@agh.edu.pl
+Басейн,Basen Korona,"ul. Kalwaryjska 9-15, 30-504 Kraków",biuro@basen-korona.pl
+Аквапарк,Park Wodny Kraków,"ul. Dobrego Pasterza 126, 31-416 Kraków",biuro@parkwodny.pl
+СТО,Auto Serwis Kraków,"ul. Zakopiańska 58, 30-418 Kraków",serwis@autoservicekrakow.pl
+СТО,Bosch Car Service,"ul. Mogilska 97, 31-571 Kraków",info@boschcarservice.pl
+Автошкола,Szkoła Jazdy Kursant,"ul. Długa 29, 31-147 Kraków",biuro@kursant.krakow.pl
+Автошкола,Ośrodek Szkolenia Kierowców Luz,"ul. Karmelicka 39, 31-128 Kraków",biuro@luz.krakow.pl
+Навчальний заклад,Uniwersytet Ekonomiczny w Krakowie,"ul. Rakowicka 27, 31-510 Kraków",rektorat@uek.krakow.pl
+Навчальний заклад,Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej,"ul. Podchorążych 2, 30-084 Kraków",rektorat@up.krakow.pl
+Лікарня,Szpital Specjalistyczny im. Jana Pawła II,"ul. Prądnicka 80, 31-202 Kraków",sekretariat@szpitaljp2.krakow.pl
+Лікарня,Szpital Specjalistyczny im. Stefana Żeromskiego,"os. Na Skarpie 66, 31-913 Kraków",sekretariat@zeromski-szpital.pl
+Поліклініка,Przychodnia Zdrowia Medica,"ul. Wielicka 44, 30-552 Kraków",rejestracja@medica.krakow.pl
+Поліклініка,Przychodnia Salus,"ul. Pilotów 2, 31-462 Kraków",kontakt@salus.krakow.pl
+Клініка,Scanmed,"ul. Armii Krajowej 5, 30-150 Kraków",info@scanmed.pl
+Клініка,Enel-Med,"ul. Pilotów 2E, 31-462 Kraków",krakow@enel.pl
+Торговий центр,M1 Kraków,"al. Pokoju 67, 31-580 Kraków",info@m1-krakow.pl
+Торговий центр,Serenada,"al. Gen. T. Bora-Komorowskiego 41, 31-876 Kraków",kontakt@serenada.com.pl
+Ужонд,Urząd Marszałkowski Województwa Małopolskiego,"ul. Basztowa 22, 31-156 Kraków",info@umwm.pl
+Офісна будівля,Quattro Business Park,"al. Gen. T. Bora-Komorowskiego 25, 31-876 Kraków",leasing@quattropark.pl
+Офісна будівля,Enterprise Park,"ul. Powstańców Wielkopolskich 13, 30-707 Kraków",info@enterprisepark.pl
+Геймінг клуб,Hex Esports Arena,"ul. Czarnowiejska 8, 31-126 Kraków",kontakt@hexarena.pl
+Геймінг клуб,Game Zone,"ul. Floriańska 15, 31-019 Kraków",info@gamezone.pl
+Інтерактивний заклад для молоді,Escape Room Kraków,"ul. Miodowa 9, 31-055 Kraków",kontakt@escaperoom.pl
+Інтерактивний заклад для молоді,Lost Souls Alley,"ul. Floriańska 6, 31-021 Kraków",info@lostsoulsalley.com
+Спортивний комплекс,KS Cracovia,"ul. Kałuży 1, 30-111 Kraków",biuro@cracovia.pl
+Спортивний комплекс,Wisła Kraków,"ul. Reymonta 22, 30-059 Kraków",sekretariat@wisla.krakow.pl
+Школа танців,Salsa Sabrosa Dance Studio,"ul. Mikołajska 26, 31-027 Kraków",info@salsasabrosa.pl
+Школа танців,Dancefloor,"ul. Szlak 67, 31-153 Kraków",biuro@dancefloor.pl
+Школа бойових мистецтв,Krakowska Szkoła Karate Tradycyjnego,"ul. Krowoderska 8, 31-142 Kraków",info@karate.krakow.pl
+Школа бойових мистецтв,Bushido Karate,"ul. Mogilska 97, 31-571 Kraków",kontakt@bushidokarate.pl
+Басейн,Basen Politechniki Krakowskiej,"ul. Warszawska 24, 31-155 Kraków",basen@pk.edu.pl
+Басейн,Basen Clepardia,"ul. Mackiewicza 14, 31-214 Kraków",biuro@clepardia.pl
+Аквапарк,Aquapark Kraków,"ul. Dobrego Pasterza 126, 31-416 Kraków",biuro@aquapark.krakow.pl
+СТО,Auto Serwis Krak,"ul. Wielicka 44, 30-552 Kraków",serwis@autokrak.pl
+СТО,Serwis Samochodowy Auto-Max,"ul. Mogilska 97, 31-571 Kraków",info@auto-max.pl
+Автошкола,Szkoła Jazdy Auto-Start,"ul. Długa 29, 31-147 Kraków",biuro@auto-start.krakow.pl
+Автошкола,Ośrodek Szkolenia Kierowców Speed,"ul. Karmelicka 39, 31-128 Kraków",biuro@speed.krakow.pl
+Спортзал,Fitness Platinium,"ul. Pawia 5, 31-154 Kraków",recepcja@fitnessplatinium.pl
+Спортзал,McFIT,"ul. Pawia 5, 31-154 Kraków",info@mcfit.pl
+Пекарня,Piekarnia Awiteks,"ul. Karmelicka 22, 31-128 Kraków",biuro@awiteks.pl
+Пекарня,Piekarnia Cukiernia Buczek,"ul. Długa 48, 31-146 Kraków",kontakt@buczek.pl
+Навчальний заклад,Wyższa Szkoła Europejska im. ks. Józefa Tischnera,"ul. Westerplatte 11, 31-033 Kraków",rekrutacja@wse.krakow.pl
+Навчальний заклад,Krakowska Akademia im. Andrzeja Frycza Modrzewskiego,"ul. Gustawa Herlinga-Grudzińskiego 1, 30-705 Kraków",rektorat@afm.edu.pl
+Лікарня,Szpital Miejski Specjalistyczny im. Gabriela Narutowicza,"ul. Prądnicka 35-37, 31-202 Kraków",sekretariat@narutowicz.krakow.pl
+Лікарня,Szpital Specjalistyczny im. Józefa Dietla,"ul. Skarbowa 4, 31-121 Kraków",sekretariat@szpital-dietla.pl
+Поліклініка,Przychodnia Centrum Medyczne,"ul. Grzegórzecka 67C, 31-559 Kraków",rejestracja@centrummedyczne.pl
+Поліклініка,Przychodnia Zdrowie,"ul. Kalwaryjska 94, 30-504 Kraków",kontakt@przychodniazdrowie.pl
+Клініка,Centrum Medyczne Medyk,"ul. Krowoderska 17, 31-141 Kraków",info@medyk.krakow.pl
+Клініка,Centrum Medyczne Promed,"ul. Grzegórzecka 67C, 31-559 Kraków",kontakt@promed.krakow.pl
+Торговий центр,Galeria Bronowice,"ul. Stawowa 61, 31-346 Kraków",info@galeriabronowice.pl
+Торговий центр,Galeria Solvay Park,"ul. Zakopiańska 105, 30-418 Kraków",kontakt@solvaypark.pl
+Ужонд,Urząd Skarbowy Kraków-Śródmieście,"ul. Grodzka 65, 31-001 Kraków",us.krakow-srodmiescie@mf.gov.pl
+Офісна будівля,Equal Business Park,"ul. Wielicka 28, 30-552 Kraków",leasing@equalbusinesspark.pl
+Офісна будівля,Bonarka for Business,"ul. Puszkarska 7F, 30-644 Kraków",info@bfbonline.pl
+Геймінг клуб,Virtual Quest,"ul. Floriańska 13, 31-019 Kraków",kontakt@virtualquest.pl
+Геймінг клуб,VR Studio,"ul. Karmelicka 52, 31-128 Kraków",info@vrstudio.pl
+Інтерактивний заклад для молоді,House of VR,"ul. Floriańska 6, 31-021 Kraków",kontakt@houseofvr.pl
+Інтерактивний заклад для молоді,Quest Cage,"ul. Miodowa 9, 31-055 Kraków",info@questcage.pl
+Спортивний комплекс,Hala Sportowa Suche Stawy,"ul. Ptaszyckiego 4, 31-979 Kraków",biuro@suchestawy.pl
+Спортивний комплекс,Centrum Sportu Parkowa,"ul. Parkowa 12A, 30-538 Kraków",kontakt@centrumparkowa.pl
+Школа танців,Studio Tańca Pasja,"ul. Karmelicka 26, 31-128 Kraków",biuro@studiopasja.pl
+Школа танців,Szkoła Tańca Al-Mara,"ul. Długa 17, 31-147 Kraków",info@al-mara.pl
+Школа бойових мистецтв,Akademia Sztuk Walki Bushi,"ul. Mogilska 97, 31-571 Kraków",kontakt@bushi.pl
+Школа бойових мистецтв,Klub Karate Kyokushin,"ul. Krowoderska 8, 31-142 Kraków",info@kyokushin.krakow.pl
+Басейн,Basen OSiR Kolna,"ul. Kolna 2, 30-381 Kraków",biuro@kolna.pl
+Басейн,Basen OSiR Kurdwanów,"ul. Wysłouchów 34a, 30-611 Kraków",osir@kurdwanow.pl
+Аквапарк,Aquapark Fala,"ul. Dobrego Pasterza 126, 31-416 Kraków",biuro@aquaparkf.krakow.pl
+СТО,Auto Serwis Expert,"ul. Wielicka 44, 30-552 Kraków",serwis@autoexpert.pl
+СТО,Serwis Samochodowy Auto-Serwis,"ul. Mogilska 97, 31-571 Kraków",info@autoservis.pl
+Автошкола,Szkoła Jazdy Expert,"ul. Długa 29, 31-147 Kraków",biuro@expert.krakow.pl
+Автошкола,Ośrodek Szkolenia Kierowców Master,"ul. Karmelicka 39, 31-128 Kraków",biuro@master.krakow.pl
+Спортзал,Fitness Club Active,"ul. Pawia 5, 31-154 Kraków",recepcja@activeclub.pl
+Спортзал,Siłownia Power Zone,"ul. Pawia 5, 31-154 Kraków",info@powerzone.pl
+Навчальний заклад,Wyższa Szkoła Zarządzania i Bankowości w Krakowie,"al. Kijowska 14, 30-079 Kraków",rektorat@wszib.edu.pl
+Навчальний заклад,Akademia Sztuk Pięknych im. Jana Matejki w Krakowie,"pl. Matejki 13, 31-157 Kraków",rektorat@asp.krakow.pl
+Лікарня,Szpital Specjalistyczny im. Józefa Babińskiego,"ul. dr. Józefa Babińskiego 29, 30-393 Kraków",sekretariat@babinski.pl
+Лікарня,Szpital Specjalistyczny im. Ludwika Rydygiera w Krakowie,"os. Złotej Jesieni 1, 31-826 Kraków",sekretariat@rydygier.krakow.pl
+Поліклініка,Przychodnia Nowa Huta,"os. Na Skarpie 66, 31-913 Kraków",rejestracja@przychodnia-nh.pl
+Поліклініка,Przychodnia Krowodrza,"ul. Kazimierza Wielkiego 64, 30-074 Kraków",kontakt@przychodnia-krowodrza.pl
+Торговий центр,Galeria Plaza,"al. Pokoju 44, 31-564 Kraków",info@plazakraken.pl
+Торговий центр,Galeria M1,"al. Pokoju 67, 31-580 Kraków",info@m1krakow.pl
+Спортзал,Pure Jatomi Fitness,"ul. Pawia 5, 31-154 Kraków",recepcja@purejatomi.pl
+Спортзал,Fitness Platinium,"ul. Zakopiańska 62, 30-418 Kraków",kontakt@fitnessplatinium.pl
+Гуртовня,Makro Cash & Carry,"ul. Zakopiańska 70, 30-418 Kraków",info@makro.pl
+Гуртовня,Selgros Cash & Carry,"ul. Albatrosów 10, 30-716 Kraków",krakow@selgros.pl
+Гастрономічний заклад без власної кави,Piekarnia Łysa Góra,"ul. Grodzka 63, 31-001 Kraków",kontakt@lysagora.pl
+Гастрономічний заклад без власної кави,Cukiernia Wadowice,"ul. Floriańska 21, 31-009 Kraków",info@cukierniawadowice.pl
+Гастрономічний заклад без власної кави,Piekarnia Pod Telegrafem,"ul. Starowiślna 83, 31-052 Kraków",biuro@podtelegrafem.pl
+Гастрономічний заклад без власної кави,Cukiernia Michalscy,"ul. Długa 8, 31-146 Kraków",kontakt@michalscy.pl
+Гуртовня,Eurocash Cash & Carry,"ul. Półłanki 22, 30-740 Kraków",info@eurocash.pl
+Гуртовня,Biedronka Centrum Dystrybucji,"ul. Powstańców 66, 31-670 Kraków",kontakt@biedronka.pl
+Пекарня,Piekarnia Czernichów,"ul. Czarnowiejska 91, 30-049 Kraków",biuro@piekarniaczernichow.pl
+Пекарня,Piekarnia Hert,"ul. Kalwaryjska 32, 30-504 Kraków",kontakt@piekarniahert.pl
+Цукерня,Cukiernia Krakowskie Wypieki,"ul. Starowiślna 83, 31-052 Kraków",info@krakowskiewypieki.pl
+Цукерня,Cukiernia Słodki Wentzl,"ul. Rynek Główny 19, 31-008 Kraków",kontakt@slodkiwentzl.pl
+Кебаб,Amrit Kebab,"ul. Floriańska 16, 31-021 Kraków",info@amrit.pl
+Спортивний клуб,Klub Sportowy Bronowianka,"ul. Zarzecze 124a, 30-134 Kraków",sekretariat@bronowianka.pl
+Спортивний клуб,Klub Sportowy Wawel,"ul. Podchorążych 3, 30-084 Kraków",klub@wawel.krakow.pl
+Басейн,Basen Kurdwanów Nowy,"ul. Wysłouchów 34a, 30-611 Kraków",biuro@basenkurdwanow.pl
+Басейн,Basen OSiR Kolna,"ul. Kolna 2, 30-381 Kraków",recepcja@kolna.pl
+Аквапарк,Aquapark Solne Miasto,"ul. Parkowa 1, 32-020 Wieliczka",info@solnemiasto.eu
+Музей,Muzeum Narodowe w Krakowie,"al. 3 Maja 1, 30-062 Kraków",sekretariat@mnk.pl
+Музей,Muzeum Historyczne Miasta Krakowa,"Rynek Główny 35, 31-011 Kraków",info@mhk.pl
+Театр,Teatr im. Juliusza Słowackiego,"pl. Świętego Ducha 1, 31-023 Kraków",sekretariat@teatrwkrakowie.pl
+Театр,Teatr Bagatela,"ul. Karmelicka 6, 31-128 Kraków",sekretariat@bagatela.pl
+Кінотеатр,Kino Pod Baranami,"Rynek Główny 27, 31-010 Kraków",biuro@kinopodbaranami.pl
+Кінотеатр,Cinema City Bonarka,"ul. Kamieńskiego 11, 30-644 Kraków",bonarka@cinemacity.pl
+Бібліотека,Biblioteka Jagiellońska,"al. Mickiewicza 22, 30-059 Kraków",sekretariat@bj.uj.edu.pl
+Бібліотека,Wojewódzka Biblioteka Publiczna,"ul. Rajska 1, 31-124 Kraków",sekretariat@rajska.info
+Галерея мистецтв,Galeria Sztuki Współczesnej Bunkier Sztuki,"pl. Szczepański 3a, 31-011 Kraków",sekretariat@bunkier.art.pl
+Галерея мистецтв,MOCAK Muzeum Sztuki Współczesnej,"ul. Lipowa 4, 30-702 Kraków",office@mocak.pl
+Ресторан,Restauracja Wierzynek,"Rynek Główny 16, 31-008 Kraków",info@wierzynek.pl
+Ресторан,Restauracja Pod Aniołami,"ul. Grodzka 35, 31-001 Kraków",restauracja@podaniolami.pl
+Готель,Hotel Stary,"ul. Szczepańska 5, 31-011 Kraków",info@hotel.com.pl
+Готель,Hotel Copernicus,"ul. Kanonicza 16, 31-002 Kraków",copernicus@hotel.com.pl
+Туристична пам'ятка,Zamek Królewski na Wawelu,"Wawel 5, 31-001 Kraków",sekretariat@wawel.org.pl
+Туристична пам'ятка,Sukiennice,"Rynek Główny 1/3, 31-042 Kraków",info@mnk.pl
+Концертний зал,ICE Kraków Congress Centre,"ul. Marii Konopnickiej 17, 30-302 Kraków",info@icekrakow.pl
+Концертний зал,Filharmonia Krakowska,"ul. Zwierzyniecka 1, 31-103 Kraków",sekretariat@filharmonia.krakow.pl
+Аеропорт,Port Lotniczy Kraków-Balice im. Jana Pawła II,"ul. Kpt. M. Medweckiego 1, 32-083 Balice",info@krakowairport.pl
+Музей,Muzeum Etnograficzne im. Seweryna Udzieli,"ul. Krakowska 46, 31-066 Kraków",sekretariat@etnomuzeum.eu
+Театр,Teatr Ludowy,"os. Teatralne 34, 31-948 Kraków",sekretariat@ludowy.pl
+Театр,Teatr Groteska,"ul. Skarbowa 2, 31-121 Kraków",biuro@teatrgroteska.pl
+Кінотеатр,Kino Kijów,"al. Krasińskiego 34, 30-101 Kraków",info@kijow.pl
+Кінотеатр,Multikino Kraków,"ul. Dobrego Pasterza 128, 31-416 Kraków",krakow@multikino.pl
+Парк,Ogród Botaniczny UJ,"ul. Kopernika 27, 31-501 Kraków",ogrod@botany.pl
+Бібліотека,Biblioteka Politechniki Krakowskiej,"ul. Warszawska 24, 31-155 Kraków",biblioteka@pk.edu.pl
+Бібліотека,Biblioteka UPJPII,"ul. Bobrzyńskiego 10, 30-348 Kraków",biblioteka@upjp2.edu.pl
+Ресторан,Restauracja Starka,"ul. Józefa 14, 31-056 Kraków",info@restauracjastarka.pl
+Ресторан,Restauracja Szara,"Rynek Główny 6, 31-042 Kraków",info@szara.pl
+Готель,Hotel Unicus,"ul. Floriańska 35, 31-019 Kraków",unicus@hotel.com.pl
+Готель,Hotel Rubinstein,"ul. Szeroka 12, 31-053 Kraków",hotel@rubinstein.pl
+Туристична пам'ятка,Kopalnia Soli Wieliczka,"ul. Daniłowicza 10, 32-020 Wieliczka",info@kopalnia.pl
+Туристична пам'ятка,Ogród Zoologiczny w Krakowie,"ul. Kasy Oszczędności Miasta Krakowa 14, 30-232 Kraków",zoo@zoo-krakow.pl
+Концертний зал,Opera Krakowska,"ul. Lubicz 48, 31-512 Kraków",opera@opera.krakow.pl
+Перукарський салон,Salon Fryzjerski Styl,"ul. Długa 45, 31-147 Kraków",styl.fryzjer@gmail.com
+Косметологічний салон,Gabinet Kosmetyczny Bella,"ul. Floriańska 22, 31-021 Kraków",kontakt@bella.krakow.pl
+Салон краси,Studio Urody Glamour,"ul. Grodzka 15, 31-006 Kraków",info@glamour.krakow.pl
+Магазин одягу,Butik Moda,"ul. Szewska 14, 31-009 Kraków",butik.moda@gmail.com
+Магазин взуття,Sklep Obuwniczy Krok,"ul. Starowiślna 50, 31-035 Kraków",kontakt@krok-obuwie.pl
+Книжковий магазин,Księgarnia Literat,"ul. Karmelicka 20, 31-128 Kraków",info@literat.krakow.pl
+Магазин електроніки,TechStore,"ul. Pawia 7, 31-154 Kraków",kontakt@techstore.pl
+Аптека,Apteka Zdrowie,"ul. Lubicz 25, 31-503 Kraków",apteka.zdrowie@gmail.com
+Магазин іграшок,Sklep z Zabawkami Bajka,"ul. Grodzka 40, 31-044 Kraków",info@bajka-zabawki.pl
+Магазин спортивних товарів,SportPlus,"ul. Floriańska 10, 31-021 Kraków",kontakt@sportplus.pl
+Магазин побутової техніки,DomTech,"ul. Starowiślna 60, 31-035 Kraków",info@domtech.krakow.pl
+Магазин меблів,MebleLux,"ul. Długa 70, 31-147 Kraków",kontakt@meblelux.pl
+Квітковий магазин,Kwiaciarnia Róża,"ul. Szewska 5, 31-009 Kraków",info@kwiaciarnia-roza.pl
+Ювелірний магазин,Jubiler Złoty Skarb,"ul. Floriańska 18, 31-021 Kraków",kontakt@zlotyskarb.pl
+Магазин канцтоварів,BiuroMax,"ul. Grodzka 25, 31-006 Kraków",info@biuromax.pl
+Магазин дитячого одягу,Maluszek,"ul. Starowiślna 30, 31-032 Kraków",kontakt@maluszek-odziez.pl
+Магазин товарів для дому,Dom i Ogród,"ul. Długa 80, 31-147 Kraków",info@domiogrod.pl
+Магазин косметики,Drogeria Uroda,"ul. Szewska 12, 31-009 Kraków",kontakt@drogeria-uroda.pl
+Магазин аксесуарів,Stylowe Dodatki,"ul. Floriańska 28, 31-021 Kraków",info@stylowedodatki.pl
+Магазин подарунків,Prezent,"ul. Grodzka 35, 31-006 Kraków",kontakt@prezent.krakow.pl
+Магазин годинників,Czas,"ul. Starowiślna 45, 31-035 Kraków",info@czas-zegarki.pl
+Магазин оптики,Optyk Vision,"ul. Długa 60, 31-147 Kraków",kontakt@optykvision.pl
+Магазин музичних інструментів,Melodia,"ul. Szewska 8, 31-009 Kraków",info@melodia-instrumenty.pl
+Магазин художніх товарів,Artysta,"ul. Floriańska 12, 31-021 Kraków",kontakt@artysta.pl
+Магазин туристичного спорядження,Turysta,"ul. Grodzka 50, 31-044 Kraków",info@turysta-sklep.pl
+Магазин товарів для тварин,ZooMarket,"ul. Starowiślna 70, 31-035 Kraków",kontakt@zoomarket.pl
+Магазин антикваріату,Antyk,"ul. Długa 90, 31-147 Kraków",info@antyk.krakow.pl
+Магазин вінілових платівок,Winyl,"ul. Szewska 16, 31-009 Kraków",kontakt@winyl.pl
+Магазин рукоділля,Pasja,"ul. Floriańska 24, 31-021 Kraków",info@pasja-rękodzieło.pl
+Магазин екологічних продуктів,EkoSmak,"ul. Grodzka 60, 31-044 Kraków",kontakt@ekosmak.pl
+Магазин одягу,Fashion Point,"ul. Grodzka 22, 31-006 Kraków",info@fashionpoint.pl
+Магазин взуття,Step Up,"ul. Floriańska 15, 31-019 Kraków",contact@stepup.pl
+Книжковий магазин,Book Haven,"ul. Karmelicka 10, 31-128 Kraków",info@bookhaven.pl
+Магазин електроніки,Electro World,"ul. Długa 25, 31-147 Kraków",support@electroworld.pl
+Аптека,Apteka Medica,"ul. Szewska 8, 31-009 Kraków",apteka.medica@gmail.com
+Магазин іграшок,Toy Land,"ul. Starowiślna 45, 31-038 Kraków",info@toyland.pl
+Магазин спортивних товарів,Active Life,"ul. Grodzka 30, 31-006 Kraków",contact@activelife.pl
+Магазин побутової техніки,Home Appliances,"ul. Floriańska 20, 31-019 Kraków",info@homeappliances.pl
+Магазин меблів,Comfort Home,"ul. Karmelicka 15, 31-128 Kraków",contact@comforthome.pl
+Квітковий магазин,Kwiaciarnia Tulipan,"ul. Długa 50, 31-147 Kraków",info@kwiaciarniatulipan.pl
+Ювелірний магазин,Jubiler Diament,"ul. Szewska 12, 31-009 Kraków",contact@jubilerdiament.pl
+Магазин канцтоварів,Office Supplies,"ul. Starowiślna 60, 31-038 Kraków",info@officesupplies.pl
+Магазин дитячого одягу,Kids Fashion,"ul. Grodzka 40, 31-006 Kraków",contact@kidsfashion.pl
+Магазин товарів для дому,Home Essentials,"ul. Floriańska 25, 31-019 Kraków",info@homeessentials.pl
+Магазин косметики,Drogeria Beauty,"ul. Karmelicka 20, 31-128 Kraków",contact@drogeriabeauty.pl
+Магазин аксесуарів,Accessory Hub,"ul. Długa 35, 31-147 Kraków",info@accessoryhub.pl
+Магазин подарунків,Gift Shop,"ul. Szewska 18, 31-009 Kraków",contact@giftshop.pl
+Магазин годинників,Timepiece,"ul. Starowiślna 70, 31-038 Kraków",info@timepiece.pl
+Магазин оптики,Vision Care,"ul. Grodzka 50, 31-006 Kraków",contact@visioncare.pl
+Магазин музичних інструментів,Music World,"ul. Floriańska 30, 31-019 Kraków",info@musicworld.pl
+Магазин художніх товарів,Art Supplies,"ul. Karmelicka 25, 31-128 Kraków",contact@artsupplies.pl
+Магазин туристичного спорядження,Adventure Gear,"ul. Długa 40, 31-147 Kraków",info@adventuregear.pl
+Магазин товарів для тварин,Pet Paradise,"ul. Szewska 22, 31-009 Kraków",contact@petparadise.pl
+Магазин антикваріату,Antique Treasures,"ul. Starowiślna 80, 31-038 Kraków",info@antiquetreasures.pl
+Магазин вінілових платівок,Vinyl Records,"ul. Grodzka 60, 31-006 Kraków",contact@vinylrecords.pl
+Магазин рукоділля,Craft Corner,"ul. Floriańska 35, 31-019 Kraków",info@craftcorner.pl
+Магазин екологічних продуктів,Eco Market,"ul. Karmelicka 30, 31-128 Kraków",contact@ecomarket.pl
+Перукарський салон,Salon Fryzjerski Elegance,"ul. Długa 45, 31-147 Kraków",elegance.fryzjer@gmail.com
+Косметологічний салон,Gabinet Kosmetyczny Beauty Care,"ul. Szewska 25, 31-009 Kraków",contact@beautycare.pl
+Салон краси,Studio Urody Charm,"ul. Starowiślna 90, 31-038 Kraków",info@studiocharm.pl
+Магазин одягу,Moda Podgórze,"ul. Kalwaryjska 15, 30-504 Kraków",info@modapodgorze.pl
+Магазин взуття,Obuwie Styl,"ul. Limanowskiego 20, 30-534 Kraków",kontakt@obuwiestyl.pl
+Книжковий магазин,Księgarnia Podgórska,"ul. Józefińska 23, 30-529 Kraków",ksiegarnia@podgorska.pl
+Аптека,Apteka Zdrowie,"ul. Kalwaryjska 25, 30-504 Kraków",apteka.zdrowie@krakow.pl
+Магазин електроніки,Elektronika Plus,"ul. Węgierska 6, 30-531 Kraków",info@elektronikaplus.pl
+Магазин іграшок,Zabawki Świat,"ul. Kalwaryjska 35, 30-504 Kraków",kontakt@zabawkiswiat.pl
+Магазин спортивних товарів,Sport Podgórze,"ul. Limanowskiego 10, 30-534 Kraków",sport@podgorze.pl
+Магазин косметики,Drogeria Uroda,"ul. Józefińska 15, 30-529 Kraków",uroda@drogeria.pl
+Магазин аксесуарів,Dodatki Moda,"ul. Kalwaryjska 45, 30-504 Kraków",dodatki@moda.pl
+Магазин канцтоварів,Biuro Rzeczy,"ul. Limanowskiego 5, 30-534 Kraków",biuro@rzeczy.pl
+Музей,Fabryka Emalia Oskara Schindlera,"ul. Lipowa 4, 30-702 Kraków",sekretariat@mhk.pl
+Культурний центр,Cricoteka,"ul. Nadwiślańska 2-4, 30-527 Kraków",info@cricoteka.pl
+Церква,Kościół św. Józefa,"ul. Zamoyskiego 2, 30-523 Kraków",kancelaria@swjozef.com
+Кінотеатр,Kino Kika,"ul. Ignacego Krasickiego 18, 30-503 Kraków",info@kinokika.pl
+Спортивний комплекс,KS Korona,"ul. Kalwaryjska 9-15, 30-504 Kraków",biuro@kskorona.pl
+Бібліотека,Filia nr 3 Biblioteki Kraków,"ul. Powroźnicza 2, 30-307 Kraków",filia3@biblioteka.krakow.pl
+Музей,Muzeum Podgórza,"ul. Limanowskiego 51, 30-553 Kraków",muzeum@mhk.pl
+Музей,Apteka pod Orłem,"Plac Bohaterów Getta 18, 30-547 Kraków",apteka@mhk.pl
+Церква,Kościół św. Benedykta,"ul. St. Benedykta 10, 30-001 Kraków",kancelaria@benedykt.com
+Церква,Kościół Matki Bożej Nieustającej Pomocy,"ul. Zamoyskiego 56, 30-523 Kraków",mbnp@redemptor.pl
+Культурний центр,Centrum Kultury Podgórza,"ul. Sokolská 13, 30-510 Kraków",sekretariat@ckpodgorza.pl
+Культурний центр,Klub Kultury Przegorzały,"ul. Kamedulska 70, 30-252 Kraków",przegorzaly@dworek.eu
+Галерея мистецтв,Galeria Starmach,"ul. Węgierska 5, 30-531 Kraków",galeria@starmach.eu
+Галерея мистецтв,Galeria Zderzak,"ul. Floriańska 3, 31-019 Kraków",zderzak@zderzak.pl
+Театр,Teatr Ludowy - Scena Pod Ratuszem,"Rynek Podgórski 1, 30-533 Kraków",teatr@ludowy.pl
+Театр,Teatr Praska 52,"ul. Praska 52, 30-322 Kraków",teatr@praska52.pl
+Кінотеатр,Kino Sfinks,"os. Górali 5, 31-959 Kraków",sfinks@kinosfinks.pl
+Кінотеатр,Kino Agrafka,"ul. Krowoderska 8, 31-142 Kraków",agrafka@kinoagrafka.pl
+Бібліотека,Biblioteka Kraków - Filia 21,"ul. Krzemionki 1, 30-525 Kraków",filia21@biblioteka.krakow.pl
+Бібліотека,Biblioteka Kraków - Filia 22,"ul. Powroźnicza 2, 30-307 Kraków",filia22@biblioteka.krakow.pl
+Спортивний комплекс,KS Nadwiślan,"ul. Koletek 20, 30-069 Kraków",biuro@ksnadwislan.pl
+Спортивний комплекс,KS Płaszowianka,"ul. Stróża Rybna 19, 30-710 Kraków",kontakt@plaszowianka.pl
+Музей,Muzeum Inżynierii Miejskiej,"ul. Św. Wawrzyńca 15, 31-060 Kraków",muzeum@mimk.com.pl
+Церква,Kościół św. Kingi,"ul. Siemomysła 37, 30-865 Kraków",parafia@swkinga.pl
+Культурний центр,Nowohuckie Centrum Kultury,"al. Jana Pawła II 232, 31-913 Kraków",sekretariat@nck.krakow.pl
+Культурний центр,Dworek Białoprądnicki,"ul. Papiernicza 2, 31-221 Kraków",sekretariat@dworek.eu
+Ринок,Hala Targowa Unitarg,"ul. Grzegórzecka 3, 31-532 Kraków",biuro@unitarg.pl

@@ -157,7 +157,7 @@ async function sendEmails() {
       attachments: [
         {
           filename: "Prezentacja Touch.pdf",
-          content: fs.createReadStream("Prezentacja Touch.pdf"),
+          content: fs.createReadStream("assets/Prezentacja Touch.pdf"),
         },
       ],
     };

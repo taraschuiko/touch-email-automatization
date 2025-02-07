@@ -2,6 +2,7 @@ const fs = require("fs");
 const dns = require("dns");
 const csv = require("csv-parser");
 const nodemailer = require("nodemailer");
+require('dotenv').config();
 
 const TOUCH_EMAIL = "partnerships@touch-csb.com";
 const PERSONAL_EMAIL = "taraschuiko@gmail.com";
@@ -76,7 +77,7 @@ const getRandomHtmlTemplate = (placeName, placeAddress) => {
   const signature = `
   <p>Z poważaniem,<br>${NAME}</p>
   <hr>
-  <img src="https://i.postimg.cc/wMbkRZf3/touch-logo.jpg" width="200" alt="Touch CSB">`;
+  <img src="https://raw.githubusercontent.com/taraschuiko/touch-email-automatization/refs/heads/main/assets/touch-logo.jpeg" width="200" alt="Touch CSB">`;
 
   return `<div>
     ${templates[Math.floor(Math.random() * templates.length)]}

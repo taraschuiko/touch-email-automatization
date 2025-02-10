@@ -2,7 +2,7 @@ const fs = require("fs");
 const dns = require("dns");
 const csv = require("csv-parser");
 const nodemailer = require("nodemailer");
-require('dotenv').config();
+require("dotenv").config();
 
 const TOUCH_EMAIL = "partnerships@touch-csb.com";
 const PERSONAL_EMAIL = "taraschuiko@gmail.com";
@@ -21,7 +21,7 @@ const getRandomHtmlTemplate = (placeName, placeAddress) => {
     </ul>
     <p>Całą obsługę i serwis urządzenia bierzemy na siebie, zapewniając jego bezproblemowe funkcjonowanie.</p>
     <p>W załączniku przesyłam prezentację z dodatkowymi szczegółami.</p>
-    <p>Czy moglibyśmy omówić szczegóły współpracy? Chętnie odpowiem na wszelkie pytania.</p>`,
+    <p>Będę wdzięczny za odpowiedź.</p>`,
 
     `<p>Szanowni Państwo,</p>
     <p>Nazywam się <strong>${NAME}</strong> i kontaktuję się w sprawie potencjalnej współpracy. Reprezentuję firmę Touch CSB, a naszym flagowym produktem jest nowoczesna, w pełni zautomatyzowana kawiarnia, która zajmuje tylko <strong>1m²</strong> powierzchni.</p>
@@ -34,7 +34,7 @@ const getRandomHtmlTemplate = (placeName, placeAddress) => {
         <li>Może być dodatkowym atutem marketingowym, zwiększając ruch klientów.</li>
     </ul>
     <p>W załączniku przesyłam prezentację z dodatkowymi informacjami.</p>
-    <p>Czy moglibyśmy umówić się na rozmowę w celu omówienia szczegółów?</p>`,
+    <p>Będę wdzięczny za odpowiedź.</p>`,
 
     `<p>Dzień dobry,</p>
     <p>Mam na imię <strong>${NAME}</strong> i reprezentuję Touch CSB – firmę, która oferuje innowacyjne rozwiązania w branży kawowej. Chciałbym zapytać, czy w Państwa placówce <strong>${placeName}</strong> przy adresie <strong>${placeAddress}</strong> byłaby możliwość wynajęcia niewielkiej przestrzeni – dokładnie <strong>1m²</strong> – na naszą kompaktową kawiarnię?</p>
@@ -59,7 +59,7 @@ const getRandomHtmlTemplate = (placeName, placeAddress) => {
         <li>Może być elementem promocji obiektu – oferujemy rabaty dla pracowników.</li>
     </ul>
     <p>W załączniku znajdą Państwo prezentację, która lepiej obrazuje naszą propozycję.</p>
-    <p>Czy moglibyśmy umówić się na rozmowę?</p>`,
+    <p>Będę wdzięczny za odpowiedź.</p>`,
 
     `<p>Dzień dobry,</p>
     <p>Chciałbym zapytać, czy w Państwa placówce <strong>${placeName}</strong> przy adresie <strong>${placeAddress}</strong> istnieje możliwość wynajęcia niewielkiej przestrzeni – dokładnie <strong>1m²</strong> – pod naszą innowacyjną kawiarnię?</p>
@@ -71,7 +71,7 @@ const getRandomHtmlTemplate = (placeName, placeAddress) => {
         <li>Może być dodatkowym atutem w promocji lokalizacji.</li>
     </ul>
     <p>W załączniku przesyłam prezentację z dodatkowymi informacjami.</p>
-    <p>Proszę o kontakt, jeśli byłaby możliwość omówienia szczegółów.</p>`,
+    <p>Będę wdzięczny za odpowiedź.</p>`,
   ];
 
   const signature = `
@@ -113,7 +113,7 @@ const transporter = nodemailer.createTransport({
 });
 
 const places = [];
-fs.createReadStream("places.csv")
+fs.createReadStream("input/places.csv")
   .pipe(
     csv({
       separator: ";",
